@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><student>
+    <column>
+        <sno type="varchar(8)"/>
+    <sname type="varchar(8)"/>
+    <ssex type="varchar(2)">女；</ssex>
+    <totalcredit type="smallint"/>
+    <createdby type="varchar(8)"/>
+    <classno type="varchar(6)"/>
+    <sbirthday type="date"/>
+    <age type="int"/>
+    <addr type="varchar(25)"/>
+    </column>
+    <column>
+        <sno>1001</sno>
+<sname>alice</sname>
+<ssex>女；</ssex>
+<totalcredit>120</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs101</classno>
+<sbirthday>1999-05-15</sbirthday>
+<age>22</age>
+<addr>123 main st</addr>
+    </column>
+<column>
+        <sno>1002</sno>
+<sname>bob</sname>
+<ssex>女；</ssex>
+<totalcredit>110</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs102</classno>
+<sbirthday>1998-08-20</sbirthday>
+<age>23</age>
+<addr>456 elm st</addr>
+    </column>
+<column>
+        <sno>1003</sno>
+<sname>charlie</sname>
+<ssex>女；</ssex>
+<totalcredit>100</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs103</classno>
+<sbirthday>2000-01-10</sbirthday>
+<age>22</age>
+<addr>789 oak st</addr>
+    </column>
+<column>
+        <sno>1004</sno>
+<sname>david</sname>
+<ssex>女；</ssex>
+<totalcredit>130</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs101</classno>
+<sbirthday>1997-11-25</sbirthday>
+<age>24</age>
+<addr>321 pine st</addr>
+    </column>
+<column>
+        <sno>1005</sno>
+<sname>emma</sname>
+<ssex>女；</ssex>
+<totalcredit>140</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs102</classno>
+<sbirthday>1999-03-05</sbirthday>
+<age>22</age>
+<addr>654 cedar st</addr>
+    </column>
+<column>
+        <sno>1006</sno>
+<sname>frank</sname>
+<ssex>女；</ssex>
+<totalcredit>115</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs103</classno>
+<sbirthday>1998-06-30</sbirthday>
+<age>23</age>
+<addr>987 maple st</addr>
+    </column>
+<column>
+        <sno>1007</sno>
+<sname>grace</sname>
+<ssex>女；</ssex>
+<totalcredit>105</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs101</classno>
+<sbirthday>2000-02-18</sbirthday>
+<age>22</age>
+<addr>135 walnut st</addr>
+    </column>
+<column>
+        <sno>1008</sno>
+<sname>henry</sname>
+<ssex>女；</ssex>
+<totalcredit>125</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs102</classno>
+<sbirthday>1997-09-12</sbirthday>
+<age>24</age>
+<addr>468 birch st</addr>
+    </column>
+<column>
+        <sno>1009</sno>
+<sname>ivy</sname>
+<ssex>女；</ssex>
+<totalcredit>135</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs103</classno>
+<sbirthday>1998-04-28</sbirthday>
+<age>23</age>
+<addr>246 spruce st</addr>
+    </column>
+<column>
+        <sno>1010</sno>
+<sname>jack</sname>
+<ssex>女；</ssex>
+<totalcredit>120</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs101</classno>
+<sbirthday>1999-07-22</sbirthday>
+<age>22</age>
+<addr>579 oak st</addr>
+    </column>
+<column>
+        <sno>1011</sno>
+<sname>kate</sname>
+<ssex>女；</ssex>
+<totalcredit>110</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs102</classno>
+<sbirthday>2000-04-15</sbirthday>
+<age>22</age>
+<addr>864 maple st</addr>
+    </column>
+<column>
+        <sno>1012</sno>
+<sname>liam</sname>
+<ssex>女；</ssex>
+<totalcredit>100</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs103</classno>
+<sbirthday>1998-11-30</sbirthday>
+<age>23</age>
+<addr>123 elm st</addr>
+    </column>
+<column>
+        <sno>1013</sno>
+<sname>mia</sname>
+<ssex>女；</ssex>
+<totalcredit>130</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs101</classno>
+<sbirthday>1997-08-05</sbirthday>
+<age>24</age>
+<addr>456 cedar st</addr>
+    </column>
+<column>
+        <sno>1014</sno>
+<sname>noah</sname>
+<ssex>女；</ssex>
+<totalcredit>140</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs102</classno>
+<sbirthday>1999-01-20</sbirthday>
+<age>22</age>
+<addr>789 pine st</addr>
+    </column>
+<column>
+        <sno>1015</sno>
+<sname>olivia</sname>
+<ssex>女；</ssex>
+<totalcredit>115</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs103</classno>
+<sbirthday>1998-06-15</sbirthday>
+<age>23</age>
+<addr>321 walnut st</addr>
+    </column>
+<column>
+        <sno>1016</sno>
+<sname>peter</sname>
+<ssex>女；</ssex>
+<totalcredit>105</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs101</classno>
+<sbirthday>2000-03-10</sbirthday>
+<age>22</age>
+<addr>654 birch st</addr>
+    </column>
+<column>
+        <sno>1017</sno>
+<sname>queen</sname>
+<ssex>女；</ssex>
+<totalcredit>125</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs102</classno>
+<sbirthday>1997-10-25</sbirthday>
+<age>24</age>
+<addr>987 spruce st</addr>
+    </column>
+<column>
+        <sno>1018</sno>
+<sname>ryan</sname>
+<ssex>女；</ssex>
+<totalcredit>135</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs103</classno>
+<sbirthday>1998-05-18</sbirthday>
+<age>23</age>
+<addr>135 elm st</addr>
+    </column>
+<column>
+        <sno>1019</sno>
+<sname>sophia</sname>
+<ssex>女；</ssex>
+<totalcredit>120</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs101</classno>
+<sbirthday>1999-08-12</sbirthday>
+<age>22</age>
+<addr>468 cedar st</addr>
+    </column>
+<column>
+        <sno>1020</sno>
+<sname>tom</sname>
+<ssex>女；</ssex>
+<totalcredit>110</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs102</classno>
+<sbirthday>2000-05-05</sbirthday>
+<age>22</age>
+<addr>579 pine st</addr>
+    </column>
+<column>
+        <sno>1021</sno>
+<sname>ursula</sname>
+<ssex>女；</ssex>
+<totalcredit>100</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs103</classno>
+<sbirthday>1998-12-20</sbirthday>
+<age>23</age>
+<addr>864 walnut st</addr>
+    </column>
+<column>
+        <sno>1022</sno>
+<sname>victor</sname>
+<ssex>女；</ssex>
+<totalcredit>130</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs101</classno>
+<sbirthday>1997-07-15</sbirthday>
+<age>24</age>
+<addr>123 birch st</addr>
+    </column>
+<column>
+        <sno>1023</sno>
+<sname>wendy</sname>
+<ssex>女；</ssex>
+<totalcredit>140</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs102</classno>
+<sbirthday>1999-02-28</sbirthday>
+<age>22</age>
+<addr>456 spruce st</addr>
+    </column>
+<column>
+        <sno>1024</sno>
+<sname>xander</sname>
+<ssex>女；</ssex>
+<totalcredit>115</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs103</classno>
+<sbirthday>1998-09-10</sbirthday>
+<age>23</age>
+<addr>789 elm st</addr>
+    </column>
+<column>
+        <sno>1025</sno>
+<sname>yolanda</sname>
+<ssex>女；</ssex>
+<totalcredit>105</totalcredit>
+<createdby>22301058</createdby>
+<classno>cs101</classno>
+<sbirthday>2000-04-05</sbirthday>
+<age>22</age>
+<addr>321 cedar st</addr>
+    </column>
+</student>

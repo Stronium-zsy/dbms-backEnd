@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<views>
+    <column/>
+    <column>
+        <name>studentview</name>
+<sql>select * from student;</sql>
+    </column>
+<column>
+        <name>studentinfoview</name>
+<sql>select * from student;</sql>
+    </column>
+<column>
+        <name>studentsview</name>
+<sql>select sno,sname,age from student;</sql>
+    </column>
+<column>
+        <name>studentnameview</name>
+<sql>select sname from student;</sql>
+    </column>
+</views>

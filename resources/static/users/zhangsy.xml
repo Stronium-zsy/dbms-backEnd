@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<zhangsy>
+    <password>$2a$10$KdZt8AdK2ziLkdtiklpZY.Mxm8GMUwSSOSsWKTpLdL3Z1v6JF4S4i</password>
+    <column>
+        <db10>select</db10>
+    </column>
+<column>
+        <db10>delete</db10>
+    </column>
+</zhangsy>

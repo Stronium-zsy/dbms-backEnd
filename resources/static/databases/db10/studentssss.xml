@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><studentssss><column><sno type="varchar(8)"/>
+    <sname type="varchar(8)"/>
+    <ssex type="varchar(2)"/>
+    <totalcredit type="integer"/>
+    <createdby type="varchar(8)"/>
+    <classno type="varchar(6)"/>
+    <sbirthday type="date"/>
+    <age type="integer"/>
+    <addr type="varchar(25)"/>
+    </column></studentssss>
